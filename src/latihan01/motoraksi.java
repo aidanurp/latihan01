@@ -21,6 +21,14 @@ public class motoraksi {
         a.harga_motor="40000000";
         a.warna_motor="black";
         
+        b.jenis_motor="sport";
+        b.thn_produksi="2017";
+        b.jenis_transmisi="manual semi automatic";
+        b.harga_motor="25000000";
+        b.warna_motor="red";
+        
+        
+        
         
     }
     
