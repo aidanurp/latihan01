@@ -15,6 +15,12 @@ public class motoraksi {
         motor b = new motor();
         motor c = new motor();
         
+        a.jenis_motor="vespa";
+        a.thn_produksi="2018";
+        a.jenis_transmisi="matic";
+        a.harga_motor="40000000";
+        a.warna_motor="black";
+        
         
     }
     
