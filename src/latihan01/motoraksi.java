@@ -29,7 +29,7 @@ public class motoraksi {
         
         c.jenis_motor="scooter";
         c.thn_produksi="2017";
-        c.jenis_transmisi"matic";
+        c.jenis_transmisi="matic";
         c.harga_motor="14000000";
         c.warna_motor="white";
         
