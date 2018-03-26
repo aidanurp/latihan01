@@ -33,6 +33,14 @@ public class motoraksi {
         c.harga_motor="14000000";
         c.warna_motor="white";
         
+        a.cetakinfo();
+        System.out.println();
+        b.cetakinfo();
+        System.out.println();
+        c.cetakinfo();
+        
+        
+        
         
         
         
