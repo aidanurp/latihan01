@@ -12,7 +12,7 @@ package latihan01;
 public class motoraksi {
     public static void main(String[] args) {
         
- {
+ 
         motor a = new motor();
         motor b = new motor();
         motor c = new motor();
@@ -45,5 +45,5 @@ public class motoraksi {
         
         
     }
-    
-}
+}   
+
