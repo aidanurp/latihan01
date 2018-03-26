@@ -13,7 +13,7 @@ public class motor {
     String jenis_motor;
     String thn_produksi;
     String jenis_transmisi;
-    Integer harga_motor;
+    String harga_motor;
     String warna_motor;
     
     void cetakinfo(){
